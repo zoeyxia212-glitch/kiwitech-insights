@@ -1,0 +1,9 @@
+external_id,title,company,location,seniority,description,posted_date,source_url
+SEEK-1001,Junior Software Engineer,Datacom,Auckland,Junior,"Build Java, Spring Boot and React applications",2026-04-02,https://example.com/jobs/1001
+SEEK-1002,Full Stack Developer,Kiwi Digital,Wellington,Intermediate,"Develop REST APIs with Java and user interfaces with React and TypeScript",2026-04-05,https://example.com/jobs/1002
+SEEK-1003,Backend Developer,Cloud Harbour,Christchurch,Senior,"Design Spring Boot services using PostgreSQL and Docker",2026-04-08,https://example.com/jobs/1003
+SEEK-1004,Graduate Developer,South Pacific Systems,Auckland,Junior,"Support applications written in Java, JavaScript and SQL",2026-04-10,https://example.com/jobs/1004
+SEEK-1005,Data Analyst,Insight Aotearoa,Wellington,Unknown,"Create reports using Power BI, SQL and Python",2026-04-12,https://example.com/jobs/1005
+SEEK-1006,.NET Developer,Canterbury Software,Christchurch,Intermediate,"Maintain .NET applications and build React user interfaces",2026-04-15,https://example.com/jobs/1006
+SEEK-1007,,Northern Technology,Auckland,Junior,"Build Java applications and automated tests",2026-04-18,https://example.com/jobs/1007
+SEEK-1008,Frontend Developer,Capital Web,Wellington,Junior,"Develop accessible interfaces with React and TypeScript",20-04-2026,https://example.com/jobs/1008
